@@ -190,7 +190,7 @@ function kata17() {
 return resultado
 }
 console.log(kata17())
-}
+
 
 function kata18() {
     // implemente o código do kata 18 aqui
@@ -201,7 +201,7 @@ function kata18() {
 return resultado
 }
 console.log(kata18())
-}
+
 
 /**
  * Daqui em diante são os bônus, por sua conta e risco
